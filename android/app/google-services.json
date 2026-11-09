@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "608541829535",
+    "project_id": "cyclers26pm-21cbe",
+    "storage_bucket": "cyclers26pm-21cbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608541829535:android:25945e08fd8b2b770235aa",
+        "android_client_info": {
+          "package_name": "com.example.modular_estilos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608541829535-m6jub6hok01gbl370qaitmrdfab40517.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modular_estilos",
+            "certificate_hash": "9f6da26ca490b880df6dc22afccd7ed4b8f7e9e9"
+          }
+        },
+        {
+          "client_id": "608541829535-3l041crr20ve6agoscr1hgiaodofr4d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zh6Ri9uCDL3-s7bAcwcn44SaZ9NB5Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608541829535-3l041crr20ve6agoscr1hgiaodofr4d2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608541829535-qqijmft459p8qn60bmoi2nsdt7336569.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modularEstilos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
